@@ -1,4 +1,6 @@
 # generator-ebabel
+[![Build Status](https://travis-ci.org/ebabel-eu/generator-ebabel.svg?branch=master)](https://travis-ci.org/ebabel-eu/generator-ebabel)
+
 Yeoman generator to scaffold an ebabel game development npm module.
 
 ## Install
