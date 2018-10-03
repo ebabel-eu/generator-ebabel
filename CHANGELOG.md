@@ -1,5 +1,8 @@
 # Changelog of generator-ebabel
 
+## [1.0.3](https://github.com/ebabel-eu/generator-ebabel/releases/tag/v1.0.3)
+- Fix package.json path to main index.js
+
 ## [1.0.2](https://github.com/ebabel-eu/generator-ebabel/releases/tag/v1.0.2)
 - Fix template .gitignore and update readme install documentation.
 
