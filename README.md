@@ -7,7 +7,7 @@ Yeoman generator to scaffold an ebabel game development npm module.
 You need [Node.js](https://nodejs.org) and Yeoman
 
 ```
-npm install -g yo
+npm install -g yo generator-ebabel
 ```
 
 ## Usage
