@@ -1,5 +1,8 @@
 # Changelog of generator-ebabel
 
+## [1.0.4](https://github.com/ebabel-eu/generator-ebabel/releases/tag/v1.0.4)
+- Fix JSDoc not including files in ./src directory.
+
 ## [1.0.3](https://github.com/ebabel-eu/generator-ebabel/releases/tag/v1.0.3)
 - Fix package.json path to main index.js
 
