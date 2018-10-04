@@ -1,5 +1,8 @@
 # Changelog of generator-ebabel
 
+## [1.0.5](https://github.com/ebabel-games/generator-ebabel/releases/tag/v1.0.5)
+- Change ownership of module from ebabel-eu to ebabel.games
+
 ## [1.0.4](https://github.com/ebabel-games/generator-ebabel/releases/tag/v1.0.4)
 - Fix JSDoc not including files in ./src directory.
 
