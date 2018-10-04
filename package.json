@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ebabel-eu/generator-ebabel.git"
+    "url": "git+https://github.com/ebabel-games/generator-ebabel.git"
   },
   "keywords": [
     "yeoman-generator",
@@ -28,9 +28,9 @@
   ],
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/ebabel-eu/generator-ebabel/issues"
+    "url": "https://github.com/ebabel-games/generator-ebabel/issues"
   },
-  "homepage": "https://github.com/ebabel-eu/generator-ebabel#readme",
+  "homepage": "https://github.com/ebabel-games/generator-ebabel#readme",
   "dependencies": {
     "yeoman-generator": "^3.1.1"
   },
