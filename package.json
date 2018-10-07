@@ -1,6 +1,6 @@
 {
   "name": "generator-ebabel",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Yeoman generator to scaffold an ebabel game development npm module.",
   "main": "app/index.js",
   "engines": {

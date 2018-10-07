@@ -12,7 +12,7 @@ npm install --save <%=name%>
 
 ### Usage
 ```
-const { <%=moduleName%> } = require('<%=name%>');
+const <%=moduleName%> = require('<%=name%>');
 
 const result = <%=moduleName%>();
 ```
