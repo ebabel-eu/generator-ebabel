@@ -1,5 +1,8 @@
 # Changelog of generator-ebabel
 
+## [1.0.7](https://github.com/ebabel-games/generator-ebabel/releases/tag/v1.0.7)
+- Remove template elements that are ebabel specific, to make it easier to use for any developer.
+
 ## [1.0.6](https://github.com/ebabel-games/generator-ebabel/releases/tag/v1.0.6)
 - Small adjustments to template files.
 

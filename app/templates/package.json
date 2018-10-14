@@ -20,10 +20,8 @@
     "module",
     "javascript"
   ],
-  "author": "<%=author%> <<%=email%>> (https://ebabel.eu/)",
-  "contributors": [
-    "Dave Pitts <dgapitts@gmail.com> (https://github.com/dgapitts)"
-  ],
+  "author": "<%=author%> <<%=email%>>",
+  "contributors": [],
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/<%=username%>/<%=name%>/issues"
